@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 RProgramming/ProgrammingAssignment1/specdata
-RProgramming/ProgrammingAssignment3/rprog-data-ProgAssignment3-data
+*.csv
+*.pdf
